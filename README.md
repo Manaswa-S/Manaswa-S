@@ -11,13 +11,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/manaswa-sangamnere">
+  <a href="https://www.linkedin.com/in/manaswa-sangamnere" target="_blank" rel="noopener noreferrer">
       <img src="https://skillicons.dev/icons?i=linkedin&perline=1" />
   </a>
-  <a href="https://github.com/Manaswa-S">
+  <a href="https://github.com/Manaswa-S" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=github&perline=1" />
   </a>
-  <a href="mnswamain@gmail.com">
+  <a href="mnswamain@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=gmail&perline=1" />
   </a>
 </p>
