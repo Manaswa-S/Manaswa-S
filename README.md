@@ -14,9 +14,12 @@
 - Exploring **DevOps, Cloud Computing, and Distributed Systems**.
 - Also into **DSA in C++** and automation with **Python**.
 - Always **open to discussions and collaborations**—let’s build something great!
+  
+<br>
 
-- Explore my latest project: **Placement Management System** (PMS) (Under Progress) — A complete solution for managing placements, interviews, and communication efficiently!
-- Interested in contributing? Feel free to reach out!
+- Explore my latest project:
+  <a href="https://github.com/Manaswa-S/Placement-Management-Software.git"> **Placement Management System** </a>
+  (PMS) (Under Progress) — A complete solution for managing placements, interviews, and communication efficiently!
 
 - Email me @ mnswamain@gmail.com
 
