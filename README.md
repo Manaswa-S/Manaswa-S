@@ -1,14 +1,9 @@
-#### Working with Golang, C++, SQL and Lua
-#### Passionate about efficient system design, databases, and scalable backend architectures.
-#### Exploring DevOps, Cloud Computing, and Distributed Systems.
-#### Also into DSA in C++ and automation with Python.
-#### Always open to discussions and collaborations—let’s build something great!
 
-- Working with Golang, C++, SQL and Lua
-- Passionate about efficient system design, databases, and scalable backend architectures.
-- Exploring DevOps, Cloud Computing, and Distributed Systems.
-- Also into DSA in C++ and automation with Python.
-- Always open to discussions and collaborations—let’s build something great!
+- Working with **Golang, C++, SQL and Lua**
+- Passionate about efficient **system design, databases, and scalable backend architectures**.
+- Exploring **DevOps, Cloud Computing, and Distributed Systems**.
+- Also into **DSA in C++** and automation with **Python**.
+- Always **open to discussions and collaborations**—let’s build something great!
 
 
 <h3 align="left">Connect with me:</h3>
