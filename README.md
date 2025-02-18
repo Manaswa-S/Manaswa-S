@@ -37,7 +37,10 @@
 </p>
 
 
-# 💻 Tech Stack:
+<h3>
+  Tech Stack:
+</h3>
+
 ![Tech-Agnostic](https://img.shields.io/badge/Tech%20Agnostic-Yes-blue)
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -47,6 +50,11 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br>
 
-### 🔝 Top Contributed Repo
+> "Programming isn't about what you know; it's about what you can figure out."
+
+<h3>
+  Top Contributed Repo
+</h3>
+
 ![](https://github-contributor-stats.vercel.app/api?username=mnspict&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
