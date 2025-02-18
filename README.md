@@ -1,4 +1,3 @@
-# Manaswa-Sangamnere
 # 💫 About Me:
 Working with Golang, Lua, and SQL. <br>Open to collaborating with like-minded developers.
 
