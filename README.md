@@ -17,7 +17,7 @@
   <a href="https://github.com/Manaswa-S" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=github&perline=1" />
   </a>
-  <a href="mnswamain@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:mnswamain@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=gmail&perline=1" />
   </a>
 </p>
