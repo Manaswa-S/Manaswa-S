@@ -1,6 +1,6 @@
-<h1>
+<h3>
   Hey, it's Manaswa,
-</h1>
+</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=150&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Simplicity+does+not+precede+complexity,+but+follows+it.)](https://github.com/Manaswa-S)
 
