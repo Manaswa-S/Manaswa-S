@@ -1,6 +1,7 @@
 <h1>
   Hey, it's Manaswa,
 </h1>
+
 - Working with **Golang, C++, SQL and Lua**
 - Passionate about efficient **system design, databases, and scalable backend architectures**.
 - Exploring **DevOps, Cloud Computing, and Distributed Systems**.
@@ -10,10 +11,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
+  <a href="https://www.linkedin.com/in/manaswa-sangamnere">
+      <img src="https://skillicons.dev/icons?i=linkedin&perline=1" />
+  </a>
   <a href="https://github.com/Manaswa-S">
     <img src="https://skillicons.dev/icons?i=github&perline=1" />
   </a>
-  <a href="mailto:mnswamain@gmail.com">
+  <a href="mnswamain@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&perline=1" />
   </a>
 </p>
