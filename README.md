@@ -1,0 +1,2 @@
+# Manaswa-Sangamnere
+Profile config
