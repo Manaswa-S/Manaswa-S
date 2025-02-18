@@ -9,7 +9,7 @@
 -->
 
 
-- Working with **Golang, C++, SQL and Lua**
+- Working with **Golang,  C++,  SQL  and  Lua**
 - Passionate about efficient **system design, databases, and scalable backend architectures**.
 - Exploring **DevOps, Cloud Computing, and Distributed Systems**.
 - Also into **DSA in C++** and automation with **Python**.
