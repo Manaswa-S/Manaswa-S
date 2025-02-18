@@ -52,9 +52,5 @@
 
 > "Programming isn't about what you know; it's about what you can figure out."
 
-<h3>
-  Top Contributed Repo
-</h3>
 
-![](https://github-contributor-stats.vercel.app/api?username=mnspict&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
