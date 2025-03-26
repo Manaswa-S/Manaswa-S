@@ -17,12 +17,6 @@
   
 <br>
 
-- Explore my latest project:
-  <a href="https://github.com/Manaswa-S/Placement-Management-Software.git"> **Placement Management System** </a>
-  (PMS) (Under Progress) — A complete solution for managing placements, interviews, and communication efficiently!
-
-- Email me @ mnswamain@gmail.com
-
 <h3 align="left">Socials:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/manaswa-sangamnere" target="_blank" rel="noopener noreferrer">
