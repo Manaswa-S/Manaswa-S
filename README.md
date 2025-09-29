@@ -11,6 +11,7 @@ Mail me: mnswamain@gmail.com
 <br>
 Visit: https://mnswa.me
 <br>
+<br>
 
 ![Tech-Agnostic](https://img.shields.io/badge/Tech%20Agnostic-Yes-blue)
 <br>
