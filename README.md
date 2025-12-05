@@ -3,7 +3,7 @@
  > "Simplicity does not precede complexity, but follows it."
 
 - Comfortable in **Golang, C++, Python, SQL, Lua, TypeScript** and eager to explore more.
-- Currently interested in **AIML infra** and distributed systems.
+- Currently interested in **AI infra** & **MLOps** and distributed systems.
 - Always **open to discussions and collaborations**—let’s build something great!
 <br>
 
