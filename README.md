@@ -1,5 +1,5 @@
 ### Hey, I'm Manaswa,
-#### Software Engineer, curious about building and understanding systems beyond the surface.
+#### A Software Engineer curious about building and understanding systems beyond the surface.
 ---
 
 > "Simplicity does not precede complexity, but follows it."
