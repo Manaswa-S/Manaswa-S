@@ -16,7 +16,7 @@
 -  Open to discussions and collaborations - let’s build something great!
 ---
 
-### Selected Projects
+### Key Projects
 -  <a href="https://github.com/Manaswa-S/LakeLens">LakeLens</a>:  Real-time Metadata Explorer for data lakehouse tables like Apache Iceberg. 
 -  <a href="https://github.com/Manaswa-S/GoXfer-TUI">GoXfer</a>:    Stateless, Ephemeral, OPAQUE-based, End-to-End Ecrypted data storage system. A modern approach to file storage. 
 -  <a href="https://github.com/SynqKriya/Optim-Server">SynqKriya</a>: ML-based Smart Traffic Management System with Network-wide Inference, built as microservices for performance.
