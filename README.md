@@ -1,22 +1,30 @@
-<h4>Hi! I'm Manaswa,</h4>
+### Hey, I'm Manaswa,
+#### Software Engineer, curious about building and understanding systems beyond the surface.
+---
 
- > "Simplicity does not precede complexity, but follows it."
+> "Simplicity does not precede complexity, but follows it."
+---
+ 
+#### Portfolio: <a href="https://mnswa.me"> mnswa.me </a>
+#### Mail me: <a href="mailto:mnswamain@gmail.com"> mnswamain@gmail.com </a>
+---
 
-- Comfortable in **Golang, C++, Python, SQL, Lua, TypeScript** and eager to explore more.
-- Currently interested in **AI infra** & **MLOps** and distributed systems.
-- Always **open to discussions and collaborations**—let’s build something great!
-<br>
+### About
+-  I primarily work on backend systems with occasionally frontend work.
+-  Designed and developed data intensive applications, cloud systems, applied cryptography, networking tools, and web applications.
+-  Exploring distributed infrastructure that powers AI/ML models.
+-  Open to discussions and collaborations - let’s build something great!
+---
 
-Mail me: mnswamain@gmail.com
-<br>
-Visit: https://mnswa.me
-<br>
-<br>
+### Selected Projects
+-  <a href="https://github.com/Manaswa-S/LakeLens">LakeLens</a>:  Real-time Metadata Explorer for data lakehouse tables like Apache Iceberg. 
+-  <a href="https://github.com/Manaswa-S/GoXfer-TUI">GoXfer</a>:    Stateless, Ephemeral, OPAQUE-based, End-to-End Ecrypted data storage system. A modern approach to file storage. 
+-  <a href="https://github.com/SynqKriya/Optim-Server">SynqKriya</a>: ML-based Smart Traffic Management System with Network-wide Inference, built as microservices for performance.
+-  <a href="https://github.com/Manaswa-S/Placement-Management-Software">PMS</a>: Placement Management System that automizes and centralizes student-company interactions. 
+---
 
-![Tech-Agnostic](https://img.shields.io/badge/Tech%20Agnostic-Yes-blue)
-<br>
-> "Programming isn't about what you know; it's about what you can figure out."
-
-- Golang, C++, Python, SQL, Lua, TypeScript
-- Postgres, Redis, Iceberg, MongoDB
-- Docker, AWS, Kafka, Nginx
+### Technologies
+-  Golang, C++, Python, SQL, Lua, TypeScript
+-  Postgres, MySQL, Redis, MongoDB, Apache Iceberg
+-  Docker, AWS, CI/CD, Kafka, Nginx
+-  and many more ...
