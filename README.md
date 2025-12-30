@@ -5,8 +5,8 @@
 > "Simplicity does not precede complexity, but follows it."
 ---
  
-#### Portfolio: <a href="https://mnswa.me"> mnswa.me </a>
-#### Mail me: <a href="mailto:mnswamain@gmail.com"> mnswamain@gmail.com </a>
+-  Portfolio: <a href="https://mnswa.me"> mnswa.me </a>
+-  Mail me: <a href="mailto:mnswamain@gmail.com"> mnswamain@gmail.com </a>
 ---
 
 ### About
