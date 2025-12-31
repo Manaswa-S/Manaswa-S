@@ -10,7 +10,7 @@
 ---
 
 ### About
--  I primarily work on backend systems with occasionally frontend work.
+-  I primarily work on backend systems with occasional frontend work.
 -  Designed and developed data intensive applications, cloud systems, applied cryptography, networking tools, and web applications.
 -  Exploring distributed infrastructure that powers AI/ML models.
 -  Open to discussions and collaborations - let’s build something great!
